@@ -1,94 +1,64 @@
----
+name: Universal Number Converter
+description: A simple Python program that converts numbers between different bases.
 
-🔢 Universal Number Converter
+body: |
+  ---
+  🔢 Universal Number Converter
 
-A simple Python program that converts numbers between different bases:
+  A simple Python program that converts numbers between different bases:
 
-Binary
+  Binary  
+  Octal  
+  Decimal  
+  Hexadecimal
 
-Octal
+  ---
 
-Decimal
+  🎥 Demo (Animated Typing)
 
-Hexadecimal
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Welcome+to+Universal+Number+Converter;Convert+Binary+%E2%86%92+Decimal+%E2%86%92+Octal+%E2%86%92+Hex;Fast%2C+Simple%2C+Reliable!">
 
+  ---
 
+  🚀 Features
 
----
+  - Menu-driven interface  
+  - Converts numbers between any of the four bases  
+  - User-friendly CLI (Command-Line Interface)  
+  - Handles invalid inputs gracefully
 
-🎥 Demo (Animated Typing)
+  ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=Welcome+to+Universal+Number+Converter;Convert+Binary+%E2%86%92+Decimal+%E2%86%92+Octal+%E2%86%92+Hex;Fast%2C+Simple%2C+Reliable!">
----
+  📂 Project Structure
 
-🚀 Features
+  ├── converter.py   # Main program file  
+  ├── README.md      # Documentation
 
-Menu-driven interface
+  ---
 
-Converts numbers between any of the four bases
+  ⚙️ Installation
 
-User-friendly CLI (Command-Line Interface)
+  1. Clone the repository:
 
-Handles invalid inputs gracefully
+      ```bash
+      git clone https://github.com/your-username/universal-number-converter.git
+      ```
 
+  2. Navigate to the project folder:
 
+      ```bash
+      cd universal-number-converter
+      ```
 
----
+  3. Run the program:
 
-📂 Project Structure
+      ```bash
+      python converter.py
+      ```
 
-├── converter.py   # Main program file
-├── README.md      # Documentation
+  ---
 
+  🎮 Usage
 
----
+  Example Run:
 
-⚙️ Installation
-
-1. Clone the repository:
-
-
-
-git clone https://github.com/your-username/universal-number-converter.git
-
-2. Navigate to the project folder:
-
-
-
-cd universal-number-converter
-
-3. Run the program:
-
-
-
-python converter.py
-
-
----
-
-🎮 Usage
-
-Example Run:
-
-Enter a number in Decimal: 25
-Binary: 11001
-Octal: 31
-Hexadecimal: 19
-
-
----
-
-🛠️ Technologies Used
-
-Python 3
-
-
-
----
-
-📜 License
-
-This project is licensed under the MIT License.
-
-
----
